@@ -10,6 +10,7 @@ Interested in web development and open source technologies, I love how websites 
 - <a href="https://github.com/cimplec/sim-c">simC</a> licensed under GPL v3
 - Project DC (Private repo as of now :grimacing:, will soon be open sourced :wink:)
 - <a href="https://github.com/lang-pulse/Pulse">Pulse</a> yet to be open sourced
+- Documentive, a project for making resumes and research papers using latex (yet to be open sourced :wink:)
 - and a bunch of other personal web related projects( mostly part of self learning the technologies 😄)
 
 👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of.
