@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk about technology and more than that find ways for incorporating them in daily life.   
 I love to create business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one.   
@@ -24,14 +24,14 @@ Interested in web development and open source technologies, I love how websites 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical)](https://github.com/dhairyaj/github-readme-stats) -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaj&include_all_commits=true&show_icons=true&theme=radical" alt="Dhairya's Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaj&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Dhairya's Github stats" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical" />
 </a>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on Github.*
 
 <!--
 **dhairyaj/dhairyaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
