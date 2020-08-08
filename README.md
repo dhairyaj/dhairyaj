@@ -20,7 +20,7 @@ Interested in web development and open source technologies, I love how websites 
 - Contact No.: +91-9950538992
 - Skype: live:djdhairya.dj
 
-[![Dhairya's Github stats](https://github-readme-stats.vercel.app/api?username=dhairyaj&count_private=true&theme=radical)](https://github.com/dhairyaj/github-readme-stats)
+[![Dhairya's Github stats](https://github-readme-stats.vercel.app/api?username=dhairyaj&count_private=true&show_icons=true&theme=radical)](https://github.com/dhairyaj/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical)](https://github.com/dhairyaj/github-readme-stats)
 
