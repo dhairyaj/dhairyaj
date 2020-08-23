@@ -4,6 +4,8 @@ I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk ab
 I love to create business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one.   
 Interested in web development and open source technologies, I love how websites look and work. They just light me up.   
 
+### I'm a Developer, Open Source Contributor, Open Source Maintainer, Gamer and a part time Mentor.   
+
 🌱 I’m currently learning Web Development frameworks like React.js, Node.js and then completing the MERN stack.
 
 🔭 I’m currently working on the following projects:  
