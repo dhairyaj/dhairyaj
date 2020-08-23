@@ -25,7 +25,7 @@ Interested in web development and open source technologies, I love how websites 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Materialize CSS" width="40px" src="https://user-images.githubusercontent.com/31620568/90976610-12008f80-e55c-11ea-89a7-933119d70e9f.png" />
-<img align="left" alt="Bulma" width="50px" height="35px" src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png" />
+<img align="left" alt="Bulma" width="50px" src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
