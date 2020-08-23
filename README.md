@@ -38,7 +38,7 @@ Interested in web development and open source technologies, I love how websites 
 <br />
 
 
-## 📫 Connect with me :    
+### Connect with me:    
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 [<img align="left" alt="Dhairya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dhairya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -59,8 +59,8 @@ Interested in web development and open source technologies, I love how websites 
 
 
 [twitter]: https://twitter.com/dhairyajn
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/_d.jain_/
+[linkedin]: https://www.linkedin.com/in/dhairyajain29
 [e-mail]: dhairya.jain.work@gmail.com
 [skype]: live:djdhairya.dj 
 
