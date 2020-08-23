@@ -25,7 +25,7 @@ Interested in web development and open source technologies, I love how websites 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Materialize CSS" width="30px" src="https://user-images.githubusercontent.com/31620568/90976610-12008f80-e55c-11ea-89a7-933119d70e9f.png" />
-<img align="left" alt="Bulma" width="30px" height="30px" src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png" />
+<img align="left" alt="Bulma" width="40px" height="30px" src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -36,6 +36,7 @@ Interested in web development and open source technologies, I love how websites 
 <img align="left" alt="Chart.js" width="26px" src="https://camo.githubusercontent.com/ca884126d1d74829f36c8fa2e6947d8a411aed1f/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" />
 
 <br />
+
 ---
 
 ## 📫 Connect with me : 
@@ -47,6 +48,7 @@ Interested in web development and open source technologies, I love how websites 
 [<img align="left" alt="Dhairya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
 <br />
+
 ---
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaj&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Dhairya's Github stats" />
