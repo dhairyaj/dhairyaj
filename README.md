@@ -49,10 +49,10 @@ Interested in web development and open source technologies, I love how websites 
 
 ---
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyaj&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Dhairya's Github stats" />
+  <img align="center" src="https://github-readme-stats.dhairyaj.vercel.app/api?username=dhairyaj&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Dhairya's Github stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.dhairyaj.vercel.app/api/top-langs/?username=dhairyaj&layout=compact&theme=radical" />
 </a>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on Github.*
