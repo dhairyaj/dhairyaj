@@ -33,9 +33,9 @@ Interested in web development and open source technologies, I love how websites 
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Chart.js" width="50px" src="https://camo.githubusercontent.com/ca884126d1d74829f36c8fa2e6947d8a411aed1f/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" />
+<img align="left" alt="Chart.js" width="50px" src="https://camo.githubusercontent.com/ca884126d1d74829f36c8fa2e6947d8a411aed1f/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" />\
 
-<br />   
+
 
 ### Connect with me:    
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
