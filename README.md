@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhairyaj&style=flat&color=lightgrey" alt="dhairyaj" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dhairyaj&style=flat&color=blue" alt="dhairyaj" /> </p>
 
 I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk about technology and more than that find ways for incorporating them in daily life.   
 I love to create business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one.   
