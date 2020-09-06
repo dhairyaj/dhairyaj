@@ -19,7 +19,7 @@ Interested in web development and open source technologies, I love how websites 
 
 👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of.
 
-### Langauges and Tools:   
+## Langauges and Tools:   
 
 <a href="https://github.com/microsoft/vscode" target = "_blank">
   <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -60,7 +60,7 @@ Interested in web development and open source technologies, I love how websites 
 
 <br><br>
 
-### Connect with me:   
+## Connect with me:   
 
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 [<img align="left" alt="Dhairya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
