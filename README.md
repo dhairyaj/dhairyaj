@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhairyaj&style=flat&color=blue" alt="dhairyaj" /> </p>
 
@@ -6,7 +6,7 @@ I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk ab
 I love to create business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one.   
 Interested in web development and open source technologies, I love how websites look and work. They just light me up.   
 
-### I am a Developer, Open Source Contributor & Maintainer, Gamer and a Mentor! 
+## I am a Developer, Open Source Contributor & Maintainer, Gamer and a Mentor!   
 
 🌱 I’m currently learning Web Development frameworks like React.js, Node.js and then completing the MERN stack.
 
@@ -60,7 +60,8 @@ Interested in web development and open source technologies, I love how websites 
 
 <br><br>
 
-### Connect with me:    
+### Connect with me:   
+
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 [<img align="left" alt="Dhairya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dhairya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
