@@ -62,6 +62,7 @@ Interested in web development and open source technologies, I love how websites 
 
 ## Connect with me:   
 
+<br><br>
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 [<img align="left" alt="Dhairya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dhairya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
