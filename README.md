@@ -8,6 +8,8 @@ Interested in web development and open source technologies, I love how websites 
 
 ## I am a Developer, Open Source Contributor & Maintainer, Gamer and a Mentor!   
 
+<br>
+
 🌱 I’m currently learning Web Development frameworks like React.js, Node.js and then completing the MERN stack.
 
 🔭 I’m currently working on the following projects:  
@@ -21,7 +23,7 @@ Interested in web development and open source technologies, I love how websites 
 
 ## Langauges and Tools:   
 
-<br><br>
+<br>
 <a href="https://github.com/microsoft/vscode" target = "_blank">
   <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
@@ -63,7 +65,7 @@ Interested in web development and open source technologies, I love how websites 
 
 ## Connect with me:   
 
-<br><br>
+<br>
 [<img align="left" alt="Dhairya | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 [<img align="left" alt="Dhairya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dhairya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
