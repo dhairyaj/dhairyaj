@@ -19,7 +19,7 @@ Interested in web development and open source technologies, I love how websites 
 - <a href="https://github.com/Documentive/TemplateBuddy">TemplateBuddy</a> -  A project for making resumes and research papers using latex (Licensed under GPL v3)
 - and a bunch of other personal web related projects( mostly part of self learning the technologies 😄)
 
-👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of.
+👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of. All our open source projects would be listed in the Hacktoberfest. Do visit them and would love to get contributions and hope to develop it together.   
 
 ## Langauges and Tools:   
 
