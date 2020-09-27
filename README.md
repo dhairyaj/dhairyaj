@@ -17,7 +17,7 @@ I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk ab
 - <a href="https://github.com/Documentive/TemplateBuddy">TemplateBuddy</a> -  A project for making resumes and research papers using latex (Licensed under GPL v3)
 - and a bunch of other personal web related projects( mostly part of self learning the technologies 😄)
 
-👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of. Hactoberfest has started and I am excited as I am both a maintainer and a participant this year. Would love to contribute in projects.
+👯 I’m looking to collaborate with people who are enthusiastic about Web Development, Artificial Intelligence and related areas. Have some really cool and exciting projects you want to be part of. Hactoberfest has started and I am excited as I am both a maintainer and a participant this year. The above mentioned open source libraries are up to recieve contributions from you guys. So come on and let's make the open source community fun together.
 
 ## Langauges and Tools:   
 
