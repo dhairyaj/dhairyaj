@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhairyaj&style=flat&color=blue" alt="dhairyaj" /> </p>
 
-I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk about technology and more than that find ways for incorporating them in daily life. I love to develop & discuss business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one. Interested in web development and open source technologies, I love how websites look and work. They just light me up. Buy me a cup of coffee and we can have great discussion over it.   
+I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk about technology and more than that find ways for incorporating them in daily life. I love to develop & discuss business ideas and strategies. Though I haven't yet started a business or startup of my own, I aspire to start one. Interested in web development and open source technologies, I love how websites look and work. They just light me up.   
 
 ## I am a Developer, Open Source Contributor & Maintainer, Gamer and a Mentor!   
 
