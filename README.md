@@ -13,7 +13,6 @@ I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk ab
 🔭 I’m currently working on the following projects:  
 - <a href="https://github.com/cimplec/sim-c">simC</a> - A simple high level dynamically typed front-end for C. (Licensed under GPL v3)
 - <a href="https://github.com/Project-DC/pygeneses">Pygeneses</a> - A PyTorch based Deep Reinforcement Learning Framework to study behaviour of artificial agents in bio-inspired environments. (Licensed under GPL v3)
-- <a href="https://github.com/lang-pulse/">Pulse</a> - An interpreted language optimized for Neural Networks. (Yet to be open sourced)
 - <a href="https://github.com/Documentive/TemplateBuddy">TemplateBuddy</a> -  A project for making resumes and research papers using latex (Licensed under GPL v3)
 - and a bunch of other personal web related projects( mostly part of self learning the technologies 😄)
 
