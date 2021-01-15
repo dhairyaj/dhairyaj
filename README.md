@@ -8,7 +8,7 @@ I'm Dhairya Jain, a Software Engineer at Volante Technologies. I love to talk ab
 
 <br>
 
-🌱 I’m currently learning Web Development frameworks like React.js, Node.js and then completing the MERN stack.
+🌱 I’m currently learning Web Development frameworks like Vue.js, Node.js and then completing the MERN stack.
 
 🔭 I’m currently working on the following projects:  
 - <a href="https://github.com/cimplec/sim-c">simC</a> - A simple high level dynamically typed front-end for C. (Licensed under GPL v3)
